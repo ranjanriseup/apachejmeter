@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="2053" it="131" lt="0" ct="1493" ts="1642943232147" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="2053" it="0" lt="2025" ct="1493" ts="1642943232276" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="481" it="26033" lt="0" ct="0" ts="1642943234344" s="true" lb="Choose This Flight" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5185" sby="293" ng="1" na="1">
+  <httpSample t="481" it="0" lt="470" ct="0" ts="1642943260377" s="true" lb="https://blazedemo.com/purchase.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5185" sby="293" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/purchase.php</java.net.URL>
+  </httpSample>
+</sample>
+
+<sample t="2422" it="124" lt="0" ct="1912" ts="1643021899504" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="2422" it="0" lt="2416" ct="1912" ts="1643021899627" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="458" it="20336" lt="0" ct="0" ts="1643021902056" s="true" lb="Choose This Flight" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5185" sby="293" ng="1" na="1">
+  <httpSample t="458" it="0" lt="450" ct="0" ts="1643021922393" s="true" lb="https://blazedemo.com/purchase.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5185" sby="293" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/purchase.php</java.net.URL>
+  </httpSample>
+</sample>
+
+<sample t="1721" it="143" lt="0" ct="1127" ts="1643021956741" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="1721" it="0" lt="1703" ct="1127" ts="1643021956882" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="531" it="28723" lt="0" ct="0" ts="1643021958608" s="true" lb="Choose This Flight" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5185" sby="293" ng="1" na="1">
+  <httpSample t="531" it="0" lt="530" ct="0" ts="1643021987332" s="true" lb="https://blazedemo.com/purchase.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5185" sby="293" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/purchase.php</java.net.URL>
+  </httpSample>
+</sample>
+
+<sample t="1501" it="117" lt="0" ct="1074" ts="1643022002742" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="1501" it="0" lt="1496" ct="1074" ts="1643022002858" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="599" it="14820" lt="0" ct="0" ts="1643022004366" s="true" lb="Choose This Flight" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5185" sby="293" ng="1" na="1">
+  <httpSample t="599" it="0" lt="598" ct="0" ts="1643022019187" s="true" lb="https://blazedemo.com/purchase.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5185" sby="293" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/purchase.php</java.net.URL>
+  </httpSample>
+</sample>
+
+<sample t="1636" it="166" lt="0" ct="1109" ts="1643022170251" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="1636" it="0" lt="1541" ct="1109" ts="1643022170417" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+
+<sample t="2270" it="158" lt="0" ct="1694" ts="1643029432904" s="true" lb="Test" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5851" sby="246" ng="1" na="1">
+  <httpSample t="2270" it="0" lt="2240" ct="1694" ts="1643029433061" s="true" lb="https://blazedemo.com/reserve.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5851" sby="246" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/reserve.php</java.net.URL>
+  </httpSample>
+</sample>
+<sample t="1355" it="20792" lt="0" ct="0" ts="1643029435338" s="true" lb="Choose This Flight" rc="200" rm="Number of samples in transaction : 1, number of failing samples : 0" tn="Thread Group 1-1" dt="" by="5185" sby="293" ng="1" na="1">
+  <httpSample t="1355" it="0" lt="1351" ct="0" ts="1643029456130" s="true" lb="https://blazedemo.com/purchase.php" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="5185" sby="293" ng="1" na="1">
+    <java.net.URL>https://blazedemo.com/purchase.php</java.net.URL>
+  </httpSample>
+</sample>
+
+</testResults>
+1643280276170,2431,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5851,246,1,1,null,0,106,1778
+1643280276274,2431,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,5851,246,1,1,https://blazedemo.com/reserve.php,2419,0,1778
+1643280278713,502,Choose This Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5185,293,1,1,null,0,16606,0
+1643280295321,502,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,5185,293,1,1,https://blazedemo.com/purchase.php,490,0,0
+1643288108027,1930,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5851,246,1,1,null,0,110,1382
+1643288108135,1930,https://blazedemo.com/reserve.php,200,OK,Thread Group 1-1,text,true,,5851,246,1,1,https://blazedemo.com/reserve.php,1921,0,1382
+1643288110074,443,Choose This Flight,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5185,293,1,1,null,0,19533,0
+1643288129606,443,https://blazedemo.com/purchase.php,200,OK,Thread Group 1-1,text,true,,5185,293,1,1,https://blazedemo.com/purchase.php,436,0,0
